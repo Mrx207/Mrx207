@@ -1,6 +1,6 @@
 # Rushikesh Deshmukh
 
-React developer. 2.5+ years on a production MERN stack — building features, fixing bugs, and keeping a large enterprise web client from falling over.
+5 years of experience in React developer — building features, fixing bugs, and keeping a large enterprise web client from falling over.
 
 I spend most of my time in the parts of React that are easy to get wrong: async state, effect lifecycles, rendering performance, and context design. The work that interests me most isn't building new things quickly — it's understanding why existing things break and fixing them properly.
 
@@ -33,6 +33,6 @@ Most React bugs I've fixed weren't obvious from reading the code. They required 
 
 ## Contact
 
-- **Upwork:** [upwork.com/freelancers/~YOURID](https://www.upwork.com/freelancers/~YOURID)
-- **Email:** your@email.com
+- **Upwork:** [upwork.com/freelancers/~014be0ce57ff5afdd3](https://www.upwork.com/freelancers/~014be0ce57ff5afdd3)
+- **Email:** rushi.deshmukh2071999@gmail.com
 - **GitHub:** [github.com/Mrx207](https://github.com/Mrx207)
